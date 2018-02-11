@@ -1,0 +1,25 @@
+Welcome to Pong! 
+
+In this tenis-like game, you take control 
+of a vitural paddle and play either the 
+computer or a friend in a one on one 
+battle to a score of ten!
+
+CONTROLS:
+
+*Left Paddle:
+	*Up = W
+	*Down = S
+*Right Paddle:
+	*Up = Up Arrow or Up on Numpad
+	*Down = Down Arrow or Down on Numpad
+
+*Pause Game = P or ESC
+
+*Reset Game (When paused or game over) = Space Bar
+
+*Exit Game (When paused or game over) = Q
+
+
+
+Andrew Eljumaily, 2017
